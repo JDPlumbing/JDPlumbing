@@ -4,8 +4,12 @@ I am a licensed and insured plumbing business owner based in South Florida, spec
 
 Current Projects
 
-Drippy_AI: Building the first plumbing assistant app powered by AI, designed to diagnose plumbing problems using logic alone—helping both homeowners and professionals solve issues more efficiently.
-LRM (Large Reality Model): Developing a framework that enables large language models (LLMs) to navigate and solve physical world problems with the same skill and knowledge as experienced professionals.
-Mission
+UVoxID: a Universal Voxel IDentifier- gives a discrete 192-bit address from center of earth to ~2 light years away. 
+time_delta_t (tDt) : count discrete steps between any 2 points in time in whatever time units from ns-millenia
+physox : a physics framework that uses directly UVoxID as opposed to the typical cartesian space of x,y,z - eliminates/reduces floating point errors in calculations over long distances/extended time. 
+all 3 of these are installable with 
+```bash
+pip install <package-name>
+```
 
 My goal is to blend deep plumbing knowledge with innovative technology, making quality plumbing services and education accessible to everyone.
